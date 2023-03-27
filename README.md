@@ -11,3 +11,6 @@
 
 # my AutoCAD platlist 
 - https://youtube.com/playlist?list=PL_RecMEcs_p8M7jxV9DhOpxcPyq9aRwEu
+
+
+AutoCAD file [02_Akashdip_AutoCAD.pdf](https://github.com/akashdip2001/autocad_01/files/11080796/02_Akashdip_AutoCAD.pdf)
