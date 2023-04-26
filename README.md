@@ -14,3 +14,7 @@
 # my AutoCAD platlist 
 - https://youtube.com/playlist?list=PL_RecMEcs_p8M7jxV9DhOpxcPyq9aRwEu
 
+# final pdf
+
+![Untitled0](https://user-images.githubusercontent.com/81384987/234692739-0731b343-5ca8-4f01-9414-ece13e098f49.png)
+![Untitled01](https://user-images.githubusercontent.com/81384987/234692757-4eeabaa4-1605-4a85-8359-1d71dd436e80.png)
